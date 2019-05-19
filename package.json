@@ -1,0 +1,15 @@
+{
+  "name": "node-kms-decrypt",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Andrea Di Blasi",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.458.0",
+    "ramda": "^0.26.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "db": {
+    "name": "test",
+    "password": "testpassword"
+  },
+  "aws": {
+    "region": "eu-west-1"
+  }
+}
